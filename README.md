@@ -16,3 +16,4 @@ A simple Pomodoro timer built with React and Tailwind CSS. This app allows you t
    ```bash
    git clone https://github.com/Sabirhusseinbalal/pomodoro-app.git
    ```
+🎥 **[Demo Video](demo.mp4)**: Watch a short demo to see how the Pomodoro App looks and works in action.
